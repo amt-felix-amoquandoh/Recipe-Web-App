@@ -248,7 +248,8 @@ body {
 }
 .header__logo {
     margin-left: 4rem;
-    height: 4.6rem;
+    height: 9.8rem;
+    width: 14rem;
     display: block;
 }
 .search {
