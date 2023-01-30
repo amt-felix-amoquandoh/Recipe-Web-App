@@ -1,0 +1,19 @@
+{
+  "name": "recipeweb",
+  "version": "1.0.0",
+  "description": "world wide recipe app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/felixEKow/Recipe-Web-App.git"
+  },
+  "author": "Felix Amoquandoh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/felixEKow/Recipe-Web-App/issues"
+  },
+  "homepage": "https://github.com/felixEKow/Recipe-Web-App#readme"
+}

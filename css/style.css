@@ -278,7 +278,7 @@ body {
 .search__field::placeholder {
     color: var(--lightGrey3);
 }
-@media only screen and (max-width: var(--mediumBp)) {
+@media only screen and (max-width: 61.25em) {
     .search__field {
         width: auto;
    }
