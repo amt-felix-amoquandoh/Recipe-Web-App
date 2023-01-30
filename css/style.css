@@ -67,7 +67,7 @@ body {
    }
 }
 
-/*  */
+/*  components styles */
 .btn, .btn--small, .btn--small:link, .btn--small:visited {
     background-image: var(--mainGradient);
     border-radius: 10rem;
